@@ -1,8 +1,8 @@
 # 🐳 FastAPI K8s App – Sistema Distribuido con Minikube
 
-![Arquitectura del sistema](./SD.png)
+![Arquitectura del sistema](./Fastapi.png)
 
-Este proyecto implementa una arquitectura de microservicios distribuida utilizando **FastAPI**, **Redis**, **PostgreSQL**, y **Nginx**, desplegados sobre un clúster de **Kubernetes en Minikube**.
+Este proyecto implementa una arquitectura de microservicios distribuida usando **FastAPI**, **Redis**, **PostgreSQL**, y **Nginx**, desplegados sobre un clúster de **Kubernetes en Minikube**.
 
 ---
 
@@ -35,9 +35,9 @@ fastapi_k8s_app/
 
 ---
 
-## 🚀 Cómo desplegar:
+## 🚀 Cómo desplegar
 
-### Requisitos principales:
+### Requisitos:
 
 - [ ] Docker Desktop (opcional)
 - [x] Minikube
@@ -177,5 +177,13 @@ kubectl get pods -w
 
 ## 👨‍💻 Autor
 
-obed peralta 
+**Obed Peralta**
+
+github: @idkobed(https://github.com/idkobed)
+
+
+
+
+
+
 
